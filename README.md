@@ -88,9 +88,9 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
-License details have not been added. Please include a license (e.g., MIT, GPL) in a `LICENSE` file in the root directory.
+Distributed under the MIT License. See [LICENSE](https://github.com/Dixon1323/smart-hydrophonics-system/blob/main/LICENSE.md) for more information.
 
 ---
 
